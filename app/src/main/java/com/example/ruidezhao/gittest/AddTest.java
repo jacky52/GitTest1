@@ -9,5 +9,6 @@ public class AddTest {
 
     public AddTest(){
         Log.d("","this is a constructor");
+        Log.d("","test push");
     }
 }
