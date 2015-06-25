@@ -10,7 +10,7 @@ public class AddTest {
     public AddTest(){
         //kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
         Log.d("","this is a constructor");
-        Log.d("","I'm testing push hereeeeeeeee");
+        Log.d("","I'm testing push hereeeeeeeedddddddddde");
         Log.d("","I'm testing push hereeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee");
     }
 }
