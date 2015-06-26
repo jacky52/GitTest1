@@ -16,5 +16,6 @@ public class AddTest {
         Log.d("","I'm testing push herekkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk");
         Log.d("","I'm testing push lllllllllllllllllllllllllllllllll");
         Log.d("","I'm testing push zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz");
+        Log.d("","I'm testing push xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
     }
 }
