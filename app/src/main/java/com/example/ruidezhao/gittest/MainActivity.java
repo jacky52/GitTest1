@@ -1,3 +1,6 @@
+/**
+ * edited by Mr.Z
+ * /
 package com.example.ruidezhao.gittest;
 
 import android.support.v7.app.ActionBarActivity;
