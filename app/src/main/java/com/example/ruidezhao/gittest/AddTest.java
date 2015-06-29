@@ -10,8 +10,6 @@ public class AddTest {
     public AddTest(){
         //kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
         Log.d("","this is a constructor");
-        Log.d("","I'm testing push hereeeeeeeedddddddddde");
-        Log.d("","I'm testing push hereeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee");
         Log.d("","I'm testing push herehhhhhhhhhhhhhhhhhhhhhhhhh");
         Log.d("","I'm testing push herekkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk");
         Log.d("","I'm testing push lllllllllllllllllllllllllllllllll");
@@ -22,6 +20,6 @@ public class AddTest {
         Log.d("","I'm testing push bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb");
         Log.d("","I'm testing push bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb");
         Log.d("","I'm testing push ccccccccccccccccccccccccccccccccccccccc");
-        Log.d("","I'm testing push ddddddddddddddddddddd");
+        Log.d("","I'm testing push eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee");
     }
 }

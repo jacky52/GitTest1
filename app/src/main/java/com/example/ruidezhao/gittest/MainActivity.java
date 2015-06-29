@@ -2,6 +2,7 @@ package com.example.ruidezhao.gittest;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 
@@ -33,6 +34,7 @@ public class MainActivity extends ActionBarActivity {
             return true;
         }
 
+        Log.d("", "I'm testing push 00000000000");
         return super.onOptionsItemSelected(item);
     }
 }
